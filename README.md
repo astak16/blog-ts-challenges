@@ -4,6 +4,7 @@
 
 1. [MyPick](https://github.com/astak16/blog-ts-challenges/issues/3) <img src="https://img.shields.io/badge/-easy-7aad0c" alt="easy"/>
 2. [MyOmit](https://github.com/astak16/blog-ts-challenges/issues/4) <img src="https://img.shields.io/badge/-medium-d9901a" alt="medium"/>
+3. [MyExclude](https://github.com/astak16/blog-ts-challenges/issues/5) <img src="https://img.shields.io/badge/-easy-7aad0c" alt="easy"/>
 
 ## 基础知识
 1. [extends 用法](https://github.com/astak16/blog-ts-challenges/issues/1)
