@@ -5,6 +5,7 @@
 1. [MyPick](https://github.com/astak16/blog-ts-challenges/issues/3) <img src="https://img.shields.io/badge/-easy-7aad0c" alt="easy"/>
 2. [MyOmit](https://github.com/astak16/blog-ts-challenges/issues/4) <img src="https://img.shields.io/badge/-medium-d9901a" alt="medium"/>
 3. [MyExclude](https://github.com/astak16/blog-ts-challenges/issues/5) <img src="https://img.shields.io/badge/-easy-7aad0c" alt="easy"/>
+4. [FirstOfArray](https://github.com/astak16/blog-ts-challenges/issues/7) <img src="https://img.shields.io/badge/-easy-7aad0c" alt="easy"/>
 
 ## 基础知识
 1. [extends 用法](https://github.com/astak16/blog-ts-challenges/issues/1)
@@ -12,3 +13,4 @@
 3. [Exclude](https://github.com/astak16/blog-ts-challenges/issues/2#issuecomment-1079876517)
 4. [Omit](https://github.com/astak16/blog-ts-challenges/issues/2#issuecomment-1084434376)
 5. [Omit、Pick、Exclude 的区别](https://github.com/astak16/blog-ts-challenges/issues/2#issuecomment-1084480379)
+6. [通俗易懂的讲解 infer 关键字](https://github.com/astak16/blog-ts-challenges/issues/6)
