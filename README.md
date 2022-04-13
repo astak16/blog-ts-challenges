@@ -18,3 +18,4 @@
 5. [Omit、Pick、Exclude 的区别](https://github.com/astak16/blog-ts-challenges/issues/2#issuecomment-1084480379)
 6. [通俗易懂的讲解 infer 关键字](https://github.com/astak16/blog-ts-challenges/issues/6)
 7. [默认约束 = keyof T](https://github.com/astak16/blog-ts-challenges/issues/8)
+8. [keyof 和类型访问](https://github.com/astak16/blog-ts-challenges/issues/10)
