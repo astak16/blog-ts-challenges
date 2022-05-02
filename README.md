@@ -11,6 +11,7 @@
 5. [MyReadonly](https://github.com/astak16/blog-ts-challenges/issues/9) <img src="https://img.shields.io/badge/-easy-7aad0c" alt="easy"/>
 6. [MyReturnType](https://github.com/astak16/blog-ts-challenges/issues/11) <img src="https://img.shields.io/badge/-medium-d9901a" alt="medium"/>
 7. [GetRequired](https://github.com/astak16/blog-ts-challenges/issues/12) <img src="https://img.shields.io/badge/-hard-de3d37" alt="hard"/>
+8. [GetOptional](https://github.com/astak16/blog-ts-challenges/issues/13) <img src="https://img.shields.io/badge/-hard-de3d37" alt="hard"/>
 
 ## 基础知识
 1. [extends 用法](https://github.com/astak16/blog-ts-challenges/issues/1)
