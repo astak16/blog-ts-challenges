@@ -13,7 +13,8 @@
 7. [GetRequired](https://github.com/astak16/blog-ts-challenges/issues/12) <img src="https://img.shields.io/badge/-hard-de3d37" alt="hard"/>
 8. [GetOptional](https://github.com/astak16/blog-ts-challenges/issues/13) <img src="https://img.shields.io/badge/-hard-de3d37" alt="hard"/>
 9. [MyAwaited](https://github.com/astak16/blog-ts-challenges/issues/14) <img src="https://img.shields.io/badge/-easy-7aad0c" alt="easy"/>
-10.[If](https://github.com/astak16/blog-ts-challenges/issues/15) <img src="https://img.shields.io/badge/-easy-7aad0c" alt="easy"/>
+10. [If](https://github.com/astak16/blog-ts-challenges/issues/15) <img src="https://img.shields.io/badge/-easy-7aad0c" alt="easy"/>
+11. [Concat](https://github.com/astak16/blog-ts-challenges/issues/16) <img src="https://img.shields.io/badge/-easy-7aad0c" alt="easy"/>
 
 ## 基础知识
 1. [extends 用法](https://github.com/astak16/blog-ts-challenges/issues/1)
