@@ -15,6 +15,7 @@
 9. [MyAwaited](https://github.com/astak16/blog-ts-challenges/issues/14) <img src="https://img.shields.io/badge/-easy-7aad0c" alt="easy"/>
 10. [If](https://github.com/astak16/blog-ts-challenges/issues/15) <img src="https://img.shields.io/badge/-easy-7aad0c" alt="easy"/>
 11. [Concat](https://github.com/astak16/blog-ts-challenges/issues/16) <img src="https://img.shields.io/badge/-easy-7aad0c" alt="easy"/>
+12. [MyReadonly2](https://github.com/astak16/blog-ts-challenges/issues/17) <img src="https://img.shields.io/badge/-medium-d9901a" alt="medium"/>
 
 ## 基础知识
 1. [extends 用法](https://github.com/astak16/blog-ts-challenges/issues/1)
