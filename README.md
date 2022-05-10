@@ -31,3 +31,6 @@
 9. [通俗易懂的讲解 infer 关键字](https://github.com/astak16/blog-ts-challenges/issues/6)
 10. [默认约束 = keyof T](https://github.com/astak16/blog-ts-challenges/issues/8)
 11. [keyof 和类型访问](https://github.com/astak16/blog-ts-challenges/issues/10)
+
+## 参考文章
+1. [TypeScript: How to get types from arrays](https://steveholgado.com/typescript-types-from-arrays/)
