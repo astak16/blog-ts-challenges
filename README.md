@@ -34,4 +34,4 @@
 11. [keyof 和类型访问](https://github.com/astak16/blog-ts-challenges/issues/10)
 
 ## 参考文章
-1. [TypeScript: How to get types from arrays](https://steveholgado.com/typescript-types-from-arrays/)
+1. [TupleToUnion](https://github.com/astak16/blog-ts-challenges/issues/20) ---- [TypeScript: How to get types from arrays](https://steveholgado.com/typescript-types-from-arrays/)
