@@ -19,6 +19,7 @@
 13. [DeepReadonly](https://github.com/astak16/blog-ts-challenges/issues/19) <img src="https://img.shields.io/badge/-medium-d9901a" alt="medium"/>
 14. [TupleToUnion](https://github.com/astak16/blog-ts-challenges/issues/20) <img src="https://img.shields.io/badge/-medium-d9901a" alt="medium"/>
 15. [TupleToObject](https://github.com/astak16/blog-ts-challenges/issues/21) <img src="https://img.shields.io/badge/-easy-7aad0c" alt="easy"/>
+16. [UnionToTuple](https://github.com/astak16/blog-ts-challenges/issues/23) <img src="https://img.shields.io/badge/-hard-de3d37" alt="hard"/>
 
 ## 基础知识
 1. [不理解到理解 - `as`](https://github.com/astak16/blog-ts-challenges/issues/18#issue-1225525854)
