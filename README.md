@@ -36,3 +36,4 @@
 
 ## 参考文章
 1. [TupleToUnion](https://github.com/astak16/blog-ts-challenges/issues/20) ---- [TypeScript: How to get types from arrays](https://steveholgado.com/typescript-types-from-arrays/)
+2. [协变和逆变](https://github.com/astak16/blog-ts-challenges/issues/22) ---- [大白话聊 TypeScript 中的变型](https://no1.engineer/articles/2021-03/covariance-and-contravariance)
