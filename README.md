@@ -23,7 +23,7 @@
 ## 基础知识
 1. [不理解到理解 - `as`](https://github.com/astak16/blog-ts-challenges/issues/18#issue-1225525854)
 2. [不理解到理解 - `-?`和`+?`](https://github.com/astak16/blog-ts-challenges/issues/18#issuecomment-1117469364)
-3. [extends 用法](https://github.com/astak16/blog-ts-challenges/issues/1)
+3. [条件类型：extends 用法](https://github.com/astak16/blog-ts-challenges/issues/1)
 4. [Pick](https://github.com/astak16/blog-ts-challenges/issues/2#issuecomment-1079862389)
 5. [Exclude](https://github.com/astak16/blog-ts-challenges/issues/2#issuecomment-1079876517)
 6. [Omit](https://github.com/astak16/blog-ts-challenges/issues/2#issuecomment-1084434376)
@@ -32,6 +32,7 @@
 9. [通俗易懂的讲解 infer 关键字](https://github.com/astak16/blog-ts-challenges/issues/6)
 10. [默认约束 = keyof T](https://github.com/astak16/blog-ts-challenges/issues/8)
 11. [keyof 和类型访问](https://github.com/astak16/blog-ts-challenges/issues/10)
+12. [协变和逆变](https://github.com/astak16/blog-ts-challenges/issues/22)
 
 ## 参考文章
 1. [TupleToUnion](https://github.com/astak16/blog-ts-challenges/issues/20) ---- [TypeScript: How to get types from arrays](https://steveholgado.com/typescript-types-from-arrays/)
