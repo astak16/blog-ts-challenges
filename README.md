@@ -22,6 +22,7 @@
 16. [UnionToTuple](https://github.com/astak16/blog-ts-challenges/issues/23) <img src="https://img.shields.io/badge/-hard-de3d37" alt="hard"/>
 17. [UnionToIntersection](https://github.com/astak16/blog-ts-challenges/issues/24) <img src="https://img.shields.io/badge/-hard-de3d37" alt="hard"/>
 18. [TupleToEnumObject ](https://github.com/astak16/blog-ts-challenges/issues/25) <img src="https://img.shields.io/badge/-hard-de3d37" alt="hard"/>
+19. [TupleToNestedObject](https://github.com/astak16/blog-ts-challenges/issues/26) <img src="https://img.shields.io/badge/-medium-d9901a" alt="medium"/>
 
 ## 基础知识
 1. [不理解到理解 - `as`](https://github.com/astak16/blog-ts-challenges/issues/18#issue-1225525854)
