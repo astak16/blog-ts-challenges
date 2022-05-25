@@ -25,19 +25,22 @@
 19. [TupleToNestedObject](https://github.com/astak16/blog-ts-challenges/issues/26) <img src="https://img.shields.io/badge/-medium-d9901a" alt="medium"/>
 
 ## 基础知识
-1. [不理解到理解 - `as`](https://github.com/astak16/blog-ts-challenges/issues/18#issue-1225525854)
-2. [不理解到理解 - `-?`和`+?`](https://github.com/astak16/blog-ts-challenges/issues/18#issuecomment-1117469364)
-3. [不理解到理解 - 交叉类型做约束(语法糖)](https://github.com/astak16/blog-ts-challenges/issues/18#issuecomment-1128473585)
-4. [条件类型：extends 用法](https://github.com/astak16/blog-ts-challenges/issues/1)
-5. [Pick](https://github.com/astak16/blog-ts-challenges/issues/2#issuecomment-1079862389)
-6. [Exclude](https://github.com/astak16/blog-ts-challenges/issues/2#issuecomment-1079876517)
-7. [Omit](https://github.com/astak16/blog-ts-challenges/issues/2#issuecomment-1084434376)
-8. [Omit、Pick、Exclude 的区别](https://github.com/astak16/blog-ts-challenges/issues/2#issuecomment-1084480379)
-9. [ReturnType](https://github.com/astak16/blog-ts-challenges/issues/2#issuecomment-1111139104)
-10. [通俗易懂的讲解 infer 关键字](https://github.com/astak16/blog-ts-challenges/issues/6)
-11. [默认约束 = keyof T](https://github.com/astak16/blog-ts-challenges/issues/8)
-12. [keyof 和类型访问](https://github.com/astak16/blog-ts-challenges/issues/10)
-13. [协变和逆变](https://github.com/astak16/blog-ts-challenges/issues/22)
+1. [条件类型：extends 用法](https://github.com/astak16/blog-ts-challenges/issues/1)
+2. [Pick](https://github.com/astak16/blog-ts-challenges/issues/2#issuecomment-1079862389)
+3. [Exclude](https://github.com/astak16/blog-ts-challenges/issues/2#issuecomment-1079876517)
+4. [Omit](https://github.com/astak16/blog-ts-challenges/issues/2#issuecomment-1084434376)
+5. [Omit、Pick、Exclude 的区别](https://github.com/astak16/blog-ts-challenges/issues/2#issuecomment-1084480379)
+6. [ReturnType](https://github.com/astak16/blog-ts-challenges/issues/2#issuecomment-1111139104)
+7. [通俗易懂的讲解 infer 关键字](https://github.com/astak16/blog-ts-challenges/issues/6)
+8. [默认约束 = keyof T](https://github.com/astak16/blog-ts-challenges/issues/8)
+9. [4种类型约束](https://github.com/astak16/blog-ts-challenges/issues/27)
+10. [keyof 和类型访问](https://github.com/astak16/blog-ts-challenges/issues/10)
+11. [协变和逆变](https://github.com/astak16/blog-ts-challenges/issues/22)
+
+## 不理解到理解
+1. [`as`](https://github.com/astak16/blog-ts-challenges/issues/18#issue-1225525854)
+2. [`-?`和`+?`](https://github.com/astak16/blog-ts-challenges/issues/18#issuecomment-1117469364)
+3. [交叉类型做约束(语法糖)](https://github.com/astak16/blog-ts-challenges/issues/18#issuecomment-1128473585)
 
 ## 参考文章
 1. [TupleToUnion](https://github.com/astak16/blog-ts-challenges/issues/20) ---- [TypeScript: How to get types from arrays](https://steveholgado.com/typescript-types-from-arrays/)
