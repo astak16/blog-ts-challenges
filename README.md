@@ -41,6 +41,7 @@
 1. [`as`](https://github.com/astak16/blog-ts-challenges/issues/18#issue-1225525854)
 2. [`-?`和`+?`](https://github.com/astak16/blog-ts-challenges/issues/18#issuecomment-1117469364)
 3. [交叉类型做约束(语法糖)](https://github.com/astak16/blog-ts-challenges/issues/18#issuecomment-1128473585)
+4. [`typeof`的用法](https://github.com/astak16/blog-ts-challenges/issues/18#issuecomment-1136859830)
 
 ## 参考文章
 1. [TupleToUnion](https://github.com/astak16/blog-ts-challenges/issues/20) ---- [TypeScript: How to get types from arrays](https://steveholgado.com/typescript-types-from-arrays/)
