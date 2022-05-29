@@ -24,6 +24,7 @@
 18. [TupleToEnumObject ](https://github.com/astak16/blog-ts-challenges/issues/25) <img src="https://img.shields.io/badge/-hard-de3d37" alt="hard"/>
 19. [TupleToNestedObject](https://github.com/astak16/blog-ts-challenges/issues/26) <img src="https://img.shields.io/badge/-medium-d9901a" alt="medium"/>
 20. [Chainable](https://github.com/astak16/blog-ts-challenges/issues/28) <img src="https://img.shields.io/badge/-medium-d9901a" alt="medium"/>
+21. [LastOfArray](https://github.com/astak16/blog-ts-challenges/issues/30) <img src="https://img.shields.io/badge/-medium-d9901a" alt="medium"/>
 
 ## 基础知识
 1. [条件类型：`extends` 用法](https://github.com/astak16/blog-ts-challenges/issues/1)
