@@ -31,6 +31,8 @@
 25. [TrimLeft、Trim、TrimRight](https://github.com/astak16/blog-ts-challenges/issues/34) <img src="https://img.shields.io/badge/-medium-d9901a" alt="medium"/>
 26. [Capitalize](https://github.com/astak16/blog-ts-challenges/issues/35) <img src="https://img.shields.io/badge/-medium-d9901a" alt="medium"/>
 27. [Replace And ReplaceAll](https://github.com/astak16/blog-ts-challenges/issues/36) <img src="https://img.shields.io/badge/-medium-d9901a" alt="medium"/>
+28. [AppendArgument](https://github.com/astak16/blog-ts-challenges/issues/37) <img src="https://img.shields.io/badge/-medium-d9901a" alt="medium"/>
+
 
 ## 基础知识
 1. [条件类型：`extends` 用法](https://github.com/astak16/blog-ts-challenges/issues/1)
