@@ -56,6 +56,7 @@
 2. [`-?`和`+?`](https://github.com/astak16/blog-ts-challenges/issues/18#issuecomment-1117469364)
 3. [交叉类型做约束(语法糖)](https://github.com/astak16/blog-ts-challenges/issues/18#issuecomment-1128473585)
 4. [`typeof`的用法](https://github.com/astak16/blog-ts-challenges/issues/18#issuecomment-1136859830)
+5. [递归中 `false` 分支最终会反应到 `true` 分支中](https://github.com/astak16/blog-ts-challenges/issues/18#issuecomment-1187145121)
 
 ## 参考文章
 1. [TupleToUnion](https://github.com/astak16/blog-ts-challenges/issues/20) ---- [TypeScript: How to get types from arrays](https://steveholgado.com/typescript-types-from-arrays/)
