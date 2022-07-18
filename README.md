@@ -33,7 +33,8 @@
 27. [Replace And ReplaceAll](https://github.com/astak16/blog-ts-challenges/issues/36) <img src="https://img.shields.io/badge/-medium-d9901a" alt="medium"/>
 28. [AppendArgument](https://github.com/astak16/blog-ts-challenges/issues/37) <img src="https://img.shields.io/badge/-medium-d9901a" alt="medium"/>
 29. [MyParameters](https://github.com/astak16/blog-ts-challenges/issues/38) <img src="https://img.shields.io/badge/-easy-7aad0c" alt="easy"/>
-20. [LengthOfString](https://github.com/astak16/blog-ts-challenges/issues/39) <img src="https://img.shields.io/badge/-medium-d9901a" alt="medium"/>
+30. [LengthOfString](https://github.com/astak16/blog-ts-challenges/issues/39) <img src="https://img.shields.io/badge/-medium-d9901a" alt="medium"/>
+31. [Flatten](https://github.com/astak16/blog-ts-challenges/issues/40) <img src="https://img.shields.io/badge/-medium-d9901a" alt="medium"/>
 
 
 ## 基础知识
