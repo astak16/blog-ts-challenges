@@ -35,6 +35,7 @@
 29. [MyParameters](https://github.com/astak16/blog-ts-challenges/issues/38) <img src="https://img.shields.io/badge/-easy-7aad0c" alt="easy"/>
 30. [LengthOfString](https://github.com/astak16/blog-ts-challenges/issues/39) <img src="https://img.shields.io/badge/-medium-d9901a" alt="medium"/>
 31. [Flatten](https://github.com/astak16/blog-ts-challenges/issues/40) <img src="https://img.shields.io/badge/-medium-d9901a" alt="medium"/>
+32. [AppendToObject](https://github.com/astak16/blog-ts-challenges/issues/41) <img src="https://img.shields.io/badge/-medium-d9901a" alt="medium"/>
 
 
 ## 基础知识
