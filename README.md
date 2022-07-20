@@ -38,6 +38,7 @@
 32. [AppendToObject](https://github.com/astak16/blog-ts-challenges/issues/41) <img src="https://img.shields.io/badge/-medium-d9901a" alt="medium"/>
 33. [Absolute](https://github.com/astak16/blog-ts-challenges/issues/42) <img src="https://img.shields.io/badge/-medium-d9901a" alt="medium"/>
 34. [StringToUnion](https://github.com/astak16/blog-ts-challenges/issues/43) <img src="https://img.shields.io/badge/-medium-d9901a" alt="medium"/>
+35. [Merge](https://github.com/astak16/blog-ts-challenges/issues/44) <img src="https://img.shields.io/badge/-medium-d9901a" alt="medium"/>
 
 
 ## 基础知识
