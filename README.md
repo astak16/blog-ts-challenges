@@ -4,6 +4,19 @@
 
 ## 题目
 
+
+  
+  |分类|难度|题目|
+  |:--|:--|:--|
+  |object|<img src="https://img.shields.io/badge/-medium-d9901a" alt="medium"/>|[Diff](https://github.com/astak16/blog-ts-challenges/issues/46)、[Merge](https://github.com/astak16/blog-ts-challenges/issues/44) |
+  
+
+
+
+<details>
+<summary>列表</summary>
+<br>
+  
 1. [MyPick](https://github.com/astak16/blog-ts-challenges/issues/3) <img src="https://img.shields.io/badge/-easy-7aad0c" alt="easy"/>
 2. [MyOmit](https://github.com/astak16/blog-ts-challenges/issues/4) <img src="https://img.shields.io/badge/-medium-d9901a" alt="medium"/>
 3. [MyExclude](https://github.com/astak16/blog-ts-challenges/issues/5) <img src="https://img.shields.io/badge/-easy-7aad0c" alt="easy"/>
@@ -39,8 +52,9 @@
 33. [Absolute](https://github.com/astak16/blog-ts-challenges/issues/42) <img src="https://img.shields.io/badge/-medium-d9901a" alt="medium"/>
 34. [StringToUnion](https://github.com/astak16/blog-ts-challenges/issues/43) <img src="https://img.shields.io/badge/-medium-d9901a" alt="medium"/>
 35. [Merge](https://github.com/astak16/blog-ts-challenges/issues/44) <img src="https://img.shields.io/badge/-medium-d9901a" alt="medium"/>
-36. [KebabCase](https://github.com/astak16/blog-ts-challenges/issues/46) <img src="https://img.shields.io/badge/-medium-d9901a" alt="medium"/>
-37. [Diff](https://github.com/astak16/blog-ts-challenges/issues/47) <img src="https://img.shields.io/badge/-medium-d9901a" alt="medium"/>
+36. [KebabCase](https://github.com/astak16/blog-ts-challenges/issues/45) <img src="https://img.shields.io/badge/-medium-d9901a" alt="medium"/>
+37. [Diff](https://github.com/astak16/blog-ts-challenges/issues/46) <img src="https://img.shields.io/badge/-medium-d9901a" alt="medium"/>
+</details>
 
 
 ## 基础知识
