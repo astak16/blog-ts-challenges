@@ -40,6 +40,7 @@
 34. [StringToUnion](https://github.com/astak16/blog-ts-challenges/issues/43) <img src="https://img.shields.io/badge/-medium-d9901a" alt="medium"/>
 35. [Merge](https://github.com/astak16/blog-ts-challenges/issues/44) <img src="https://img.shields.io/badge/-medium-d9901a" alt="medium"/>
 36. [KebabCase](https://github.com/astak16/blog-ts-challenges/issues/46) <img src="https://img.shields.io/badge/-medium-d9901a" alt="medium"/>
+37. [Diff](https://github.com/astak16/blog-ts-challenges/issues/47) <img src="https://img.shields.io/badge/-medium-d9901a" alt="medium"/>
 
 
 ## 基础知识
