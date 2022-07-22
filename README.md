@@ -1,4 +1,4 @@
-> Create by 草叔 2022-03-27
+> Create by uccs 2022-03-27
 
 在工作中很多时候停留在会用的阶段，对类型定义文件看不懂，就想提升自己的 `ts` 水平，在 github 中找到了 [ts类型体操](https://github.com/type-challenges/type-challenges) 这个项目，在里面看到一个大神的文章： [TypeScript 类型体操天花板，用类型运算写一个 Lisp 解释器](https://zhuanlan.zhihu.com/p/427309936) 后，对 `ts` 有了全新的认识，比如文章里提到的用 `ts` 实现四则运算，对现阶段的我来说太震撼了，准备好好学一学 `ts`，开此项目记录自己 `ts` 的学习笔记。
 
