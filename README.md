@@ -8,7 +8,7 @@
   
   |分类|难度|题目|
   |:--|:--|:--|
-  |object|<img src="https://img.shields.io/badge/-medium-d9901a" alt="medium"/>|[Diff](https://github.com/astak16/blog-ts-challenges/issues/46)、[Merge](https://github.com/astak16/blog-ts-challenges/issues/44) |
+  |object|<img src="https://img.shields.io/badge/-medium-d9901a" alt="medium"/>|[Diff](https://github.com/astak16/blog-ts-challenges/issues/46)、[Merge](https://github.com/astak16/blog-ts-challenges/issues/44)、[PickByType](https://github.com/astak16/blog-ts-challenges/issues/48) |
   
 
 
@@ -54,6 +54,8 @@
 35. [Merge](https://github.com/astak16/blog-ts-challenges/issues/44) <img src="https://img.shields.io/badge/-medium-d9901a" alt="medium"/>
 36. [KebabCase](https://github.com/astak16/blog-ts-challenges/issues/45) <img src="https://img.shields.io/badge/-medium-d9901a" alt="medium"/>
 37. [Diff](https://github.com/astak16/blog-ts-challenges/issues/46) <img src="https://img.shields.io/badge/-medium-d9901a" alt="medium"/>
+38. [PickByType](https://github.com/astak16/blog-ts-challenges/issues/48) <img src="https://img.shields.io/badge/-medium-d9901a" alt="medium"/>
+
 </details>
 
 
