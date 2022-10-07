@@ -73,7 +73,8 @@
 11. [协变和逆变](https://github.com/astak16/blog-ts-challenges/issues/22)
 12. [`keyof` 取值](https://github.com/astak16/blog-ts-challenges/issues/29)
 13. [联合类型和交叉类型](https://github.com/astak16/blog-ts-challenges/issues/47)
-14. [`type` 和 `interface` 区别](https://github.com/astak16/blog-ts-challenges/issues/49)
+14. [`type` 和 `interface` 区别](https://github.com/astak16/blog-ts-challenges/issues/49#issue-1400576298)
+15. [元组和数据的区别](https://github.com/astak16/blog-ts-challenges/issues/49#issuecomment-1271098277)
 
 ## 不理解到理解
 1. [`as`](https://github.com/astak16/blog-ts-challenges/issues/18#issue-1225525854)
